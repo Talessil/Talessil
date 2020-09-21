@@ -8,6 +8,10 @@
 🌱 I’m currently working with semantics, machine learning, and recommendation systems.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Talessil&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talessil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Talessil&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talessil&theme=algolia&layout=compact" />
+</a>
