@@ -7,4 +7,4 @@
 📫 How to reach me: talessil.sil@gmail.com
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Talessil&show_icons=true&theme=radical)
