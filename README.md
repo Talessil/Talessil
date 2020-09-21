@@ -5,7 +5,7 @@
 
 🔭 I’m currently a master's student at PPGCC-UFJF, with a focus on research in database analysis.
 
-🌱 I’m currently working with semantics, machine learning, and recommendation systems.
+🌱 I’m working with semantics, machine learning, and recommendation systems.
 
 
 
