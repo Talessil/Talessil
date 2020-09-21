@@ -5,3 +5,6 @@
 🌱 I’m currently learning and working with semantics, machine learning, and recommendation systems.
 
 📫 How to reach me: talessil.sil@gmail.com
+
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
